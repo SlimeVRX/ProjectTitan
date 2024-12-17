@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LandscapeDesigner",
+	"Description": "A series of tools used to design landscapes that exceed the size limit of landmass",
+	"Category": "Other",
+	"CreatedBy": "Arran Langmead",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "Landmass",
+			"Enabled": true
+		}
+	]
+}
